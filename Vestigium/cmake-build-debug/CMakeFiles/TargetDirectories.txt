@@ -1,0 +1,3 @@
+D:/Repos/CodeJam-2020/Vestigium/cmake-build-debug/CMakeFiles/Vestigium.dir
+D:/Repos/CodeJam-2020/Vestigium/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/CodeJam-2020/Vestigium/cmake-build-debug/CMakeFiles/rebuild_cache.dir

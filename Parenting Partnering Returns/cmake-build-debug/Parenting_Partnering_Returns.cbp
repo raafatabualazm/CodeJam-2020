@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Parenting_Partnering_Returns"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parenting_Partnering_Returns">
+				<Option output="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Parenting_Partnering_Returns.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parenting_Partnering_Returns"/>
+					<CompileFile command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Parenting_Partnering_Returns/fast">
+				<Option output="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Parenting_Partnering_Returns.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 Parenting_Partnering_Returns/fast"/>
+					<CompileFile command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/make.exe -f &quot;D:/Repos/CodeJam-2020/Parenting Partnering Returns/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Repos/CodeJam-2020/Parenting Partnering Returns/main.cpp">
+			<Option target="Parenting_Partnering_Returns"/>
+		</Unit>
+		<Unit filename="D:/Repos/CodeJam-2020/Parenting Partnering Returns/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
