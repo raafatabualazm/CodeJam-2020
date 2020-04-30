@@ -1,0 +1,3 @@
+D:/Repos/CodeJam-2020/Nesting Depth/cmake-build-debug/CMakeFiles/Nesting_Depth.dir
+D:/Repos/CodeJam-2020/Nesting Depth/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/CodeJam-2020/Nesting Depth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
